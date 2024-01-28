@@ -1,0 +1,13 @@
+langchain
+chromadb
+langchain-google-genai
+langchain-community # web
+pypdf # pdf
+beautifulsoup4
+youtube_transcript_api # youtube
+google-api-python-client
+pandas
+jupyterlab
+ipykernel
+python-dotenv
+markdown
