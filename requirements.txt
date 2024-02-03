@@ -11,3 +11,6 @@ jupyterlab
 ipykernel
 python-dotenv
 markdown
+streamlit>=1.28
+openai>=1.2
+lxml
